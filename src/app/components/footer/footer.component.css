@@ -1,0 +1,9 @@
+footer{
+    background-color: var(--preto);
+    padding: 3em;
+}
+
+p{
+    color: var(--branco);
+    text-align: center;
+}
