@@ -37,7 +37,10 @@ h2{
     border-radius: 10px;
     padding: 12px 15px;
     font-family: var(--fonte-principal);
+}
 
+.cadastro__input:hover{
+    background-color: var(--cinza-claro);
 }
 
 .cadastro__botao{
@@ -55,6 +58,10 @@ h2{
       10px 0 0 0 var(--azul),
       15px 0 0 0 var(--amarelo),
       20px 0 0 0 var(--vermelho);
+}
+
+.cadastro__botao:hover{
+    background-color: var(--cinza);
 }
 
 .cadastro__imagem{

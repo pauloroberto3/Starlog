@@ -57,6 +57,10 @@ h2{
       20px 0 0 0 var(--vermelho);
 }
 
+.login__botao:hover{
+    background-color: var(--cinza);
+}
+
 .login__imagem{
     background-color: var(--preto);
     padding: 15em;

@@ -26,6 +26,11 @@ a{
       20px 0 0 0 var(--vermelho);
 }
 
+a:hover{
+    background-color: var(--cinza);
+    color: var(--branco);
+}
+
 .header__logo{
     display: flex;
     align-items: center;
